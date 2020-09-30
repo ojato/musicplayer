@@ -3,7 +3,7 @@ import os
 
 root=Tk()
 root.title("music player")
-
+root.wm_iconbitmap("tic-tac-toe_39453.ico")
 
 root.geometry("450x150")
 
